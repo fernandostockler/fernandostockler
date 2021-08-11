@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a periodic table of elements.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandostockler)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=gotham)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandostockler)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gotham)
 
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandostockler)](https://github.com/anuraghazra/github-readme-stats&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandostockler)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 
