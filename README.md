@@ -15,11 +15,10 @@ Here are some ideas to get you started:-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true)
 
 
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandostockler&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fernandostockler)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fernandostockler&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
