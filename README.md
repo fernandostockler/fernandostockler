@@ -12,10 +12,11 @@ Here are some ideas to get you started:-->
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandostockler)](https://github.com/fernandostockler/github-readme-stats&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true)
+
 
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandostockler)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandostockler&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
