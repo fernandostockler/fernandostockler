@@ -16,7 +16,7 @@
 <br/>
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true" width="400" />   
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true" width="350" />   
 <div/>
   
 ## WakaTime stats
