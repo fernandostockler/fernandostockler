@@ -21,4 +21,4 @@ Here are some ideas to get you started:-->
 
 <br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fernandostockler&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/github/fernandostockler/PeriodicTable.UW.2021.svg)](https://wakatime.com/badge/github/fernandostockler/PeriodicTable.UW.2021)
