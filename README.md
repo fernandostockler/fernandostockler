@@ -5,18 +5,18 @@
   <img src="https://badgen.net/badge/language/C%23,HTML,CSS/green?list=|" />
 <div/>
 
-### Hi there 👋 
+### Hi there 👋 &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/230/flag-for-brazil_1f1e7-1f1f7.png" width="20" />
   
 - 👨 I'm focused on the .NET technologies.
 - 🔭 I’m currently working on a desktop periodic table of elements app.
 - 🌱 I’m currently learning design patterns with ASP.NET Core 5. 
-- 📫 How to reach me: fernando.stockler@outlook.com.br 
 - ⚡ Fun fact: I love animals, cosmology, rock'n roll and learning new things. 
+- 📫 How to reach me: fernando.stockler@outlook.com.br
   
 <br/>
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true" width="350" />   
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true" width="350" />
 <div/>
   
 ## WakaTime stats
