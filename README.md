@@ -23,6 +23,6 @@
   
 <div>
     <img src="https://wakatime.com/share/@fernandostockler/f16463cc-1bd7-42db-aa75-3bf7e913b66b.svg" width="45%" height="50%" />
-    <img src="https://wakatime.com/share/@fernandostockler/de18e1f9-9cd6-4ede-a18c-6d52ee3a37f7.svg"  width="45%" height="50%"/>
+    <img src="https://wakatime.com/share/@fernandostockler/c416aa8c-d94d-4ce2-8527-4987b08c366d.svg"  width="45%" height="50%"/>
 <div/>
   
