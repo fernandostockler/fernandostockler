@@ -13,10 +13,12 @@
 - ⚡ Fun fact: I love animals, cosmology, rock'n roll and learning new things. 
 - 📫 How to reach me: fernando.stockler@outlook.com.br
   
-<!-- <div>
+<br/>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true" width="350" />
-<div/> -->
-----  
+<div/>
+
   
 #### WakaTime stats
   
