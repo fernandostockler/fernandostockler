@@ -27,3 +27,5 @@
 <br/>
 
 [![wakatime](https://wakatime.com/badge/github/fernandostockler/Result.svg)](https://wakatime.com/badge/github/fernandostockler/Result)
+
+[![wakatime](https://wakatime.com/badge/user/18155065-c891-48ec-9880-7ee076a4d764.svg)](https://wakatime.com/@18155065-c891-48ec-9880-7ee076a4d764)
