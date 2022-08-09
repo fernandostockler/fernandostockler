@@ -19,10 +19,7 @@
   
 #### WakaTime stats
   
-<div>
-  <!-- f16463cc-1bd7-42db-aa75-3bf7e913b66b (languages white) -->
-    <img src="https://wakatime.com/share/@fernandostockler/ea56fc0a-2816-44b0-aed4-65ad7dd23b9f.svg" width="49%" height="50%" />
-    <img src="https://wakatime.com/share/@fernandostockler/fc7dcd26-26b1-43a7-b383-6d3c7224a105.svg"  width="49%" height="50%"/>
+<div>   
+    <img src="https://wakatime.com/share/@fernandostockler/fc7dcd26-26b1-43a7-b383-6d3c7224a105.svg" width="49%" height="50%"/>
+    <img src="https://wakatime.com/share/@fernandostockler/35464d59-6793-4d30-b5a7-fc2124b55f16.svg" width="49%" height="50%"></embed>
 <div/>
-  
-<!--  azul claro -> 5bda258b-07f4-40ec-ac30-a5022c2567ee  -->
