@@ -13,11 +13,11 @@
 <br/>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandostockler&show_icons=true&theme=merko&count_private=true" width="450" />
 <div/>
 
   
-#### WakaTime stats
+### WakaTime stats
   
 <div>   
     <img src="https://wakatime.com/share/@fernandostockler/fc7dcd26-26b1-43a7-b383-6d3c7224a105.svg" width="49%" height="50%"/>
