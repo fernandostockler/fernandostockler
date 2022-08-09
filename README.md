@@ -23,3 +23,7 @@
     <img src="https://wakatime.com/share/@fernandostockler/fc7dcd26-26b1-43a7-b383-6d3c7224a105.svg" width="49%" height="50%"/>
     <img src="https://wakatime.com/share/@fernandostockler/35464d59-6793-4d30-b5a7-fc2124b55f16.svg" width="49%" height="50%"></embed>
 <div/>
+
+<br/>
+
+[![wakatime](https://wakatime.com/badge/github/fernandostockler/Result.svg)](https://wakatime.com/badge/github/fernandostockler/Result)
