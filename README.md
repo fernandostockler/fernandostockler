@@ -28,6 +28,6 @@
 
 [![wakatime](https://wakatime.com/badge/github/fernandostockler/Result.svg?logo=github&style=plastic)](https://wakatime.com/badge/github/fernandostockler/Result)
 
-[![wakatime](https://wakatime.com/badge/user/18155065-c891-48ec-9880-7ee076a4d764.svg?logo=github&style=plastic)](https://wakatime.com/@18155065-c891-48ec-9880-7ee076a4d764)
+[![wakatime](https://wakatime.com/badge/user/18155065-c891-48ec-9880-7ee076a4d764.svg?logo=github&color=%23007ec6&style=plastic)](https://wakatime.com/@18155065-c891-48ec-9880-7ee076a4d764)
   
 [![wakatime](https://wakatime.com/badge/github/fernandostockler/18155065-c891-48ec-9880-7ee076a4d764.svg?logo=github&style=plastic)](https://wakatime.com/@18155065-c891-48ec-9880-7ee076a4d764)
