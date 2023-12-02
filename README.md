@@ -1,5 +1,5 @@
-
-### Hi there &nbsp; <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/230/flag-for-brazil_1f1e7-1f1f7.png" width="20" />  &nbsp; &nbsp; &nbsp;   &nbsp; <img src="https://badgen.net/badge/language/C%23/green?list=|" /> &nbsp; <img src="https://badgen.net/badge/icon/.NET?icon=windows&label" /> &nbsp; <img src="https://badgen.net/badge/icon/visualstudio/purple?icon=visualstudio&label" />  
+<img src="https://badgen.net/badge/icon/Brazil/green?icon=github&labelColor=green&label"  /> &nbsp; <img src="https://badgen.net/badge/language/C%23/orange?" /> &nbsp; <img src="https://badgen.net/badge/icon/.NET?icon=windows&label" /> &nbsp; <img src="https://badgen.net/badge/icon/visualstudio/purple?icon=visualstudio&label" />  
+### Hi there &nbsp; 
 
 - 👨 I'm focused on the .NET technologies. 
 
